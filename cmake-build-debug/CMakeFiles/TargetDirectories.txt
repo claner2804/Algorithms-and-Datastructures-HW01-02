@@ -1,0 +1,3 @@
+C:/Users/clane/CLionProjects/AlgoDat/hw01-02/cmake-build-debug/CMakeFiles/hw01_02.dir
+C:/Users/clane/CLionProjects/AlgoDat/hw01-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/clane/CLionProjects/AlgoDat/hw01-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

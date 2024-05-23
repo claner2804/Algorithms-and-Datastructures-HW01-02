@@ -1,0 +1,18 @@
+# ninja log v5
+3	378	7381557866032989	CMakeFiles/hw01_02.dir/singlyLinkedList.cpp.obj	faa56d5569976efd
+8	399	7381557866242425	CMakeFiles/hw01_02.dir/main_synglyLinkedList.cpp.obj	1065bcaa5ca4f347
+399	475	7381557866980445	hw01_02.exe	23b3c5e18172aad0
+1	146	7381562536418700	build.ninja	4bd17cce0bc45325
+5	432	7381562541466144	CMakeFiles/hw01_02.dir/main_singlyLinkedList.cpp.obj	bdfe6af2803b96b9
+3	440	7381562541535970	CMakeFiles/hw01_02.dir/singlyLinkedList.cpp.obj	faa56d5569976efd
+440	536	7381562542473444	hw01_02.exe	7cb4cfe0bd7f589d
+2	378	7381563125964103	CMakeFiles/hw01_02.dir/main_singlyLinkedList.cpp.obj	bdfe6af2803b96b9
+380	458	7381563126732048	hw01_02.exe	7cb4cfe0bd7f589d
+2	384	7381563214163641	CMakeFiles/hw01_02.dir/main_singlyLinkedList.cpp.obj	bdfe6af2803b96b9
+384	459	7381563214891696	hw01_02.exe	7cb4cfe0bd7f589d
+7	369	7381567301936512	CMakeFiles/hw01_02.dir/singlyLinkedList.cpp.obj	faa56d5569976efd
+3	389	7381567302135978	CMakeFiles/hw01_02.dir/main_singlyLinkedList.cpp.obj	bdfe6af2803b96b9
+389	468	7381567302894239	hw01_02.exe	7cb4cfe0bd7f589d
+7	380	7381567518729638	CMakeFiles/hw01_02.dir/singlyLinkedList.cpp.obj	faa56d5569976efd
+3	402	7381567518949047	CMakeFiles/hw01_02.dir/main_singlyLinkedList.cpp.obj	bdfe6af2803b96b9
+403	479	7381567519699104	hw01_02.exe	7cb4cfe0bd7f589d
